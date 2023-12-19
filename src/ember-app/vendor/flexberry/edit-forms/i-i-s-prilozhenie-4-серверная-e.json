@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудник",
+      "projection": "СотрудникL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Серверная",
+  "name": "IISPrilozhenie_4СервернаяE",
+  "className": "СервернаяE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-4-серверная",
+      "modelProjection": "СервернаяE"
+    }
+  ]
+}

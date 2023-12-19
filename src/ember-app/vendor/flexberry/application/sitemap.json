@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "Prilozhenie_4",
+  "applicationTitle": "Prilozhenie_4",
+  "items": [
+    {
+      "link": null,
+      "menuName": "prilozhenie-4",
+      "caption": "Prilozhenie_4",
+      "title": "Prilozhenie_4",
+      "children": [
+        {
+          "link": "i-i-s-prilozhenie-4-отчет-о-сервере-l",
+          "menuName": null,
+          "caption": "Отчет о сервере",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-4-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-4-сенсоры-l",
+          "menuName": null,
+          "caption": "Сенсоры",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-4-серверная-l",
+          "menuName": null,
+          "caption": "Серверная",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-4-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-4-расположение-l",
+          "menuName": null,
+          "caption": "Расположение",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

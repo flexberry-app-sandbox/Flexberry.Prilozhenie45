@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-4-расположение-e",
+  "editForm": "i-i-s-prilozhenie-4-расположение-e",
+  "external": false,
+  "caption": "Расположение",
+  "name": "IISPrilozhenie_4РасположениеL",
+  "className": "РасположениеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-4-расположение",
+      "modelProjection": "РасположениеL"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "name": "IISPrilozhenie_4Контроллер",
+  "modelName": "i-i-s-prilozhenie-4-контроллер",
+  "className": "Контроллер",
+  "nameSpace": "IIS.Prilozhenie_4",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "idКонтроллера",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "модель",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "сенсоры",
+      "relatedTo": "i-i-s-prilozhenie-4-сенсоры",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "серверная",
+      "relatedTo": "i-i-s-prilozhenie-4-серверная",
+      "inverse": "контроллер"
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "КонтроллерE",
+      "modelName": "i-i-s-prilozhenie-4-контроллер",
+      "attrs": [
+        {
+          "name": "модель",
+          "caption": "Модель",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "idКонтроллера",
+          "caption": "",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

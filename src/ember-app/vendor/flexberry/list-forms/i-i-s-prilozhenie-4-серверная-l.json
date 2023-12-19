@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-4-серверная-e",
+  "editForm": "i-i-s-prilozhenie-4-серверная-e",
+  "external": false,
+  "caption": "Серверная",
+  "name": "IISPrilozhenie_4СервернаяL",
+  "className": "СервернаяL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-4-серверная",
+      "modelProjection": "СервернаяL"
+    }
+  ]
+}

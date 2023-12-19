@@ -1,0 +1,1 @@
+docker-compose -p prilozhenie_4-java up -d

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-4-сенсоры-e",
+  "editForm": "i-i-s-prilozhenie-4-сенсоры-e",
+  "external": false,
+  "caption": "Сенсоры",
+  "name": "IISPrilozhenie_4СенсорыL",
+  "className": "СенсорыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-4-сенсоры",
+      "modelProjection": "СенсорыL"
+    }
+  ]
+}
